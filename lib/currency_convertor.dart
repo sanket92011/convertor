@@ -93,7 +93,7 @@ class _CurrencyConverterState extends State<CurrencyConverter> {
                 focusedBorder: border,
                 filled: true,
                 fillColor: Colors.white,
-                hintText: "Please enter currency in rupees",
+                hintText: "Please enter currency in dollar",
                 hintStyle: TextStyle(color: Colors.black),
                 enabledBorder: border,
                 prefixIcon: Icon(Icons.monetization_on, color: Colors.black),
