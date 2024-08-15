@@ -13,7 +13,7 @@ class CurrencyConverter extends StatefulWidget {
 class _CurrencyConverterState extends State<CurrencyConverter> {
   final TextEditingController textEditingController = TextEditingController();
   final String currencyUrl =
-      "https://api.currencylayer.com/live?access_key=0002c0676ab6f19af3a7e029031f77f7&format=1";
+      "your_api_key";
 
   double result = 0;
   double? usCurrencyRate = 83;
